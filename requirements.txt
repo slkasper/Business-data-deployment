@@ -1,0 +1,8 @@
+# data_science_utils.egg==info
+#cython 
+#gdal
+pandas==1.5.3
+pydeck==0.8.1b0
+python-dotenv==1.0.0
+streamlit==1.24
+varname==0.11.2
